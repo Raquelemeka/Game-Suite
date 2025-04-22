@@ -18,7 +18,9 @@ A collection of Swift-based mini-games for iOS. Built to master mobile developme
 - Demonstrates **problem-solving** (e.g., game logic, state management).  
 
 ## Screenshots  
-<img src="" width="300">  
+<img src="" width="300"> 
+<img src="screenshots/greencloth.png" width="300" alt="Card War Game Screenshot">
+<img src="screenshots/wood.png" width="300" alt="Card War Game Screenshot">
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
