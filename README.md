@@ -1,8 +1,8 @@
-# Game Suite  
+# 🎮 iOS Game Suite  
 
-## War Card
-A lightweight iOS card game built with **Swift/Xcode**, with plans to expand into a suite of mini-games.  
+A collection of Swift-based mini-games for iOS. Built to master mobile development fundamentals.  
 
+## 🃏 Card War  
 ## Features  
 - 🃏 **Card War**: Complete with scoring and animations.  
 - 📱 **Responsive UI**: Works on all iPhone screen sizes.  
