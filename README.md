@@ -10,7 +10,7 @@ A collection of Swift-based mini-games for iOS. Built to master mobile developme
 
 ## How to Run  
 1. Clone this repo.  
-2. Open `CardWar.xcodeproj` in Xcode.  
+2. Open `WarCardGame.xcodeproj` in Xcode.  
 3. Build for simulator or device.
 
 ## Why I Built This  
