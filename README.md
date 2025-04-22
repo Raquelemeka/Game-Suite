@@ -18,7 +18,7 @@ A collection of Swift-based mini-games for iOS. Built to master mobile developme
 - Demonstrates **problem-solving** (e.g., game logic, state management).  
 
 ## Screenshots  
-| <img src="screenshots/greencloth.png" width="300" alt="Green Cloth Background"> | <img src="screenshots/wood.png" width="300" alt="Wooden Table Background"> |
+<img src="screenshots/greencloth.png" width="300" alt="Green Cloth Background"> | <img src="screenshots/wood.png" width="300" alt="Wooden Table Background">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
