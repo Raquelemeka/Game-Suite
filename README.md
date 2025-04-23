@@ -15,9 +15,9 @@ A collection of Swift-based mini-games for iOS. Built to master mobile developme
 
 ## Why I Built This  
 - To explore **Swift game development** and **UI animations**.  
-- Demonstrates **problem-solving** (e.g., game logic, state management).  
+- Demonstrates **problem-solving** (e.g. game logic, state management).  
 
-## Screenshots  
+## Example Gameplay
 <img src="screenshots/greencloth.png" width="300" alt="Green Cloth Background"> | <img src="screenshots/wood.png" width="300" alt="Wooden Table Background">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
