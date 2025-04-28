@@ -2,7 +2,9 @@
 
 A collection of Swift-based mini-games for iOS. Built to master mobile development fundamentals.  
 
-## 🃏 Card War  
+## 🃏 Card War
+Inspired by codewithchris on Youtube
+
 ## Features  
 - 🃏 **Card War**: Complete with scoring and animations.  
 - 📱 **Responsive UI**: Works on all iPhone screen sizes.  
