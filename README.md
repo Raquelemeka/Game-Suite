@@ -2,7 +2,7 @@
 
 A collection of Swift-based mini-games for iOS. Built to master mobile development fundamentals.  
 
-## Card War
+## 1. Card War
 Inspired by codewithchris on Youtube
 
 ## Features  
